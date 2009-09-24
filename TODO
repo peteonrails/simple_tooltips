@@ -1,0 +1,2 @@
+Check whether we're using HAML or ERB in the generator template
+Auto trigger generator
