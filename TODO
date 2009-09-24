@@ -1,2 +1,2 @@
 Check whether we're using HAML or ERB in the generator template
-Auto trigger generator
+Make them work with jQuery and have the plugin make the helper compatible with the associated library. 
