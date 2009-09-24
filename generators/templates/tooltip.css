@@ -1,0 +1,8 @@
+#tooltip {
+  position: absolute;
+  border: #ef7527 1px solid;
+  width: 150px;
+  padding: 5px;
+  background-color: #ffebce;
+  z-index: 100;
+  filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=115); }

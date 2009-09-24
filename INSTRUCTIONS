@@ -1,0 +1,17 @@
+The Simple Tooltips plugin is now installed. 
+
+Please be sure that your application layout templates (where you want to use tooltips)
+have the following code in them: 
+
+yield :head
+yield :javascript
+
+Ensure that yield :javascript appears after Prototype or jQuery are loaded. 
+ 
+To make a tooltip, do this in your views:
+
+<div id="needs_tooltip">
+  Some content
+</div>
+
+<%= tooltip_for('needs_tooltip', 'This will be displayed when you mouseover Some content.') %>
