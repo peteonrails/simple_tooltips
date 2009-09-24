@@ -1,7 +1,7 @@
 spec = Gem::Specification.new do |s|
     s.platform  =   Gem::Platform::RUBY
     s.name      =   "simple_tooltips"
-    s.version   =   "0.0.1"
+    s.version   =   "0.0.2"
     s.author    =   "Peter Jackson"
     s.email     =   "pete @nospam@ peteonrails.com"
     s.summary   =   "A package for dead simple tooltips in the style that I like."
